@@ -11,6 +11,10 @@ jinja2
 plotly
 seaborn
 nbformat
+openchord
 
 # network
 networkx
+
+# image
+kaleido
