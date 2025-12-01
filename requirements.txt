@@ -11,7 +11,7 @@ bs4
 tqdm
 
 # plot
-matplotlib>=3.7,<4
+matplotlib
 jinja2
 plotly
 seaborn
@@ -23,3 +23,6 @@ networkx
 
 # image
 kaleido
+
+# model 
+xgboost
