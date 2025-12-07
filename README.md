@@ -25,18 +25,54 @@ Các bộ dữ liệu gốc:
 ```
 .
 ├─ Images
-│  ├─ Graphics # Biểu đồ 
-│  └─ Icons # Biểu tượng của các Pokémon
+│  ├─ Graphics 
+│  │  # Biểu đồ 
+│  └─ Icons 
+│     # Biểu tượng của các Pokémon
+│
 ├─ data
-│  ├─ modified # Dữ liệu đã được xử lý
-│  └─ raw_data # Dữ liệu gốc
+│  ├─ modified 
+│  │  # Dữ liệu đã được xử lý
+│  └─ raw_data 
+│     # Dữ liệu gốc
+│
 ├─ notebooks
-│  ├─ 1_Data_Understanding.ipynb # Tìm hiểu về các biến của dữ liệu
-│  ├─ 2_Data_Preprocessing.ipynb # Tiền xử lý dữ liệu
-│  ├─ 3_Data_Exploration.ipynb # Khám phá và làm sạch dữ liệu
-│  ├─ 4_Clean_Data_Visualization.ipynb # Trực quan hóa dữ liệu sạch
-│  └─ 5_FE&Model.ipynb # Feature Engineering và xây dựng mô hình
-├─ README.md # Tài liệu hướng dẫn dự án
-├─ Scrapper.py # chương trình scrape dữ liệu từ Bulbapedia
-└─ requirements.txt # Thư viện cần thiết để chạy các notebook
+│  ├─ 1_Data_Understanding.ipynb 
+│  │  # Tìm hiểu về các biến của dữ liệu
+│  ├─ 2_Data_Preprocessing.ipynb 
+│  │  # Tiền xử lý dữ liệu
+│  ├─ 3_Data_Exploration.ipynb 
+│  │  # Khám phá và làm sạch dữ liệu
+│  ├─ 4_Clean_Data_Visualization.ipynb 
+│  │  # Trực quan hóa dữ liệu sạch
+│  └─ 5_FE&Model.ipynb 
+│     # Feature Engineering và xây dựng mô hình
+│
+├─ README.md 
+│  # Tài liệu hướng dẫn dự án
+│
+├─ Scrapper.py 
+│  # chương trình scrape dữ liệu từ Bulbapedia
+│
+└─ requirements.txt 
+   # Thư viện cần thiết để chạy các notebook
 ```
+
+## 4. Hướng dẫn
+
+### Yêu cầu môi trường
+
+- Python 3.12
+- Thư viện: Xem chi tiết trong `requirements.txt`
+
+### Thứ tự chạy các notebook
+
+1. `1_Data_Understanding.ipynb`: Tìm hiểu về các biến của dữ liệu
+
+2. `2_Data_Preprocessing.ipynb`: Tiền xử lý dữ liệu
+
+3. `3.Data_Exploration.ipynb`: Khám phá và làm sạch dữ liệu
+
+4. `4_Clean_Data_Visualization.ipynb`: Trực quan hóa dữ liệu sạch
+
+5. `5_FE&Model.ipynb`: Feature Engineering và xây dựng mô hình
