@@ -1,5 +1,7 @@
 # Pokémon Battle Prediction: Sức mạnh của Data Preparation qua Data Storytelling
 
+Report: https://drive.google.com/file/d/1jGN4OU0_YpOQZ-LmI9o0witapJb3Sjxv/view?fbclid=IwY2xjawOinkNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeRmtTtm04iNKmuXbiZgQrcH4HqeQoqilXN5Zcm4UFcLlG7-lFFYCtb1TjkCA_aem_8qJKkR35RskcBO2W_VVAYw&pli=1
+
 ## 1. Bối cảnh & mục tiêu của dự án
 
 Pokémon là một franchise game xoay quanh việc thu thập và huấn luyện các sinh vật gọi là Pokémon để thi đấu với nhau. 
